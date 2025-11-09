@@ -1,6 +1,10 @@
 <div align="center">
 
-# 🔥 burp-cli
+<div align="center">
+  <img src="media/logo.png" alt="Project Logo" width="220"/>
+</div>
+
+# burp-cli
 
 ### Command-Line Power for Burp Suite Professional
 
